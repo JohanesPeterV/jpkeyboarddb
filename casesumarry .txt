@@ -1,0 +1,79 @@
+di contoh soal ada
+9 subquery ntah apa
+3 set operator
+1 insert dengan kondisi v
+1 unik
+1 delete dengan kondisi v
+3 soal join pivot
+5 soal proc
+6 function
+4 cursor
+4 trigger
+
+
+
+
+
+JP Keyboard
+kadang jp keyboard nerima stock keyboard dari kerja sama dengan toko lain, tapi toko lain ini ngasihnya dalam bentuk csv lah, json lah bla bla bla.
+
+
+
+
+di soal jp ada
+Select biasa dengan kondisi 1
+
+
+
+Alias Subquery 5
+Subquery 3
+Subquery dengan xml 3
+pivot 2
+pivot + union 1
+Csv 1
+Json mayan susah 1 
+To xml, query aggregate biasa 1
+
+Union 2
+Except 1
+Intersect 2
+
+Cursor 3
+(bikin cursor scrol)
+Stored Prochedure 2
+Stored Prochedure+cursor 2
+StoredProc+cursor n query mikir 1 (Search berdasar seberapa relevant) 
+trigger 5
+function 5 (1)
+
+
+
+
+
+10 easy
+-2,3,4,8,10,12,13,15,21,23
+18 medium
+-1,5,6,7,[9 middlename],11,14,[16],20,22,[24 cursor table]
+12 hard
+-[17 json_value json_query],[18 csv],[19 mid name],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

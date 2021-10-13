@@ -1,0 +1,12 @@
+{
+  "ProductName": "Keychron k6",
+  "ProductPrice": 1500000,
+  "ProductStock": 6,
+  "ProductWeight":0.5,
+  "Specifications": {
+    "Connections": ["cable","bluetooth"],
+    "Layout": "65%",
+    "Features":["Hotswappable","RGB Backlit","4000mAh Battery"]
+  },
+  "ProductType": "Keyboard"
+}
